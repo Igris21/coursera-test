@@ -13,7 +13,6 @@ h1{
 }
 .C,.B,.S{
 	border: 1px solid black;
-	border-width: medium;
 	margin-bottom: 20px;
 	background-color: grey;
 	position: relative;
@@ -21,7 +20,6 @@ h1{
 h2{
 	border-left: 1px solid black;
 	border-bottom: 1px solid black;
-	border-width: medium;
 	text-align: center;
 	margin: 0px;
 	position: absolute;
